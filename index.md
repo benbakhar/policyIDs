@@ -1,5 +1,5 @@
-## Welcome Mad Flowers NFT Project
+## Welcome To Mad Flowers NFT Project
 
 Our page is still under construction, will be up in a bit!
 
-Policy ID: d28d0b520307577c4f589a12bb5899a7cc77637366db4083a72de896
+Policy ID: 6c07cba58f02927c4a508f330d5b6c202b9023959d8b96c1c79a6bc5
